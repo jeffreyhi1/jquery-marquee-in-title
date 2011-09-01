@@ -1,3 +1,8 @@
+/**
+* @author: Daniel Carrero
+* @link: daniel @ kode.cl
+* @link: http://blog.kode.cl/plugin-jquery-para-colocar-una-marquesina-en-el-titulo-de-la-pagina/
+*/
 (function( $ ){
     $.fn.marqueeTitle = function(options) {
         var settings = {
